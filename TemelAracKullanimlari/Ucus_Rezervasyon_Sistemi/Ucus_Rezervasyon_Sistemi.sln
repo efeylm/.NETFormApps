@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ucus_Rezervasyon_Sistemi", "Ucus_Rezervasyon_Sistemi\Ucus_Rezervasyon_Sistemi.csproj", "{4331F354-A128-4B98-9080-8F9BC4FB8A6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4331F354-A128-4B98-9080-8F9BC4FB8A6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4331F354-A128-4B98-9080-8F9BC4FB8A6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4331F354-A128-4B98-9080-8F9BC4FB8A6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4331F354-A128-4B98-9080-8F9BC4FB8A6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {787AF8DC-5200-41E9-872B-C3617D498038}
+	EndGlobalSection
+EndGlobal

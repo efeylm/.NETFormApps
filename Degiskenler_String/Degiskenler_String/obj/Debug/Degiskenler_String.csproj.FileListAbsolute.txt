@@ -1,0 +1,11 @@
+C:\Users\efeyl\Desktop\Udemy Projeler\Degiskenler_String\Degiskenler_String\bin\Debug\Degiskenler_String.exe.config
+C:\Users\efeyl\Desktop\Udemy Projeler\Degiskenler_String\Degiskenler_String\bin\Debug\Degiskenler_String.exe
+C:\Users\efeyl\Desktop\Udemy Projeler\Degiskenler_String\Degiskenler_String\bin\Debug\Degiskenler_String.pdb
+C:\Users\efeyl\Desktop\Udemy Projeler\Degiskenler_String\Degiskenler_String\obj\Debug\Degiskenler_String.csproj.AssemblyReference.cache
+C:\Users\efeyl\Desktop\Udemy Projeler\Degiskenler_String\Degiskenler_String\obj\Debug\Degiskenler_String.csproj.SuggestedBindingRedirects.cache
+C:\Users\efeyl\Desktop\Udemy Projeler\Degiskenler_String\Degiskenler_String\obj\Debug\Degiskenler_String.Form1.resources
+C:\Users\efeyl\Desktop\Udemy Projeler\Degiskenler_String\Degiskenler_String\obj\Debug\Degiskenler_String.Properties.Resources.resources
+C:\Users\efeyl\Desktop\Udemy Projeler\Degiskenler_String\Degiskenler_String\obj\Debug\Degiskenler_String.csproj.GenerateResource.cache
+C:\Users\efeyl\Desktop\Udemy Projeler\Degiskenler_String\Degiskenler_String\obj\Debug\Degiskenler_String.csproj.CoreCompileInputs.cache
+C:\Users\efeyl\Desktop\Udemy Projeler\Degiskenler_String\Degiskenler_String\obj\Debug\Degiskenler_String.exe
+C:\Users\efeyl\Desktop\Udemy Projeler\Degiskenler_String\Degiskenler_String\obj\Debug\Degiskenler_String.pdb

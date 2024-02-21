@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Degiskenler_Char", "Degiskenler_Char\Degiskenler_Char.csproj", "{EF79CDE1-F99C-4BDE-A73F-C91B241B82FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF79CDE1-F99C-4BDE-A73F-C91B241B82FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF79CDE1-F99C-4BDE-A73F-C91B241B82FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF79CDE1-F99C-4BDE-A73F-C91B241B82FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF79CDE1-F99C-4BDE-A73F-C91B241B82FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {057E1E09-E096-4143-95D4-E17F0E2E98E1}
+	EndGlobalSection
+EndGlobal

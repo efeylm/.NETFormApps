@@ -1,0 +1,12 @@
+C:\Users\efeyl\Desktop\Udemy Projeler\CaptchaApp\CaptchaApp\bin\Debug\CaptchaApp.exe.config
+C:\Users\efeyl\Desktop\Udemy Projeler\CaptchaApp\CaptchaApp\bin\Debug\CaptchaApp.exe
+C:\Users\efeyl\Desktop\Udemy Projeler\CaptchaApp\CaptchaApp\bin\Debug\CaptchaApp.pdb
+C:\Users\efeyl\Desktop\Udemy Projeler\CaptchaApp\CaptchaApp\obj\Debug\CaptchaApp.csproj.AssemblyReference.cache
+C:\Users\efeyl\Desktop\Udemy Projeler\CaptchaApp\CaptchaApp\obj\Debug\CaptchaApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\efeyl\Desktop\Udemy Projeler\CaptchaApp\CaptchaApp\obj\Debug\CaptchaApp.Form1.resources
+C:\Users\efeyl\Desktop\Udemy Projeler\CaptchaApp\CaptchaApp\obj\Debug\CaptchaApp.Properties.Resources.resources
+C:\Users\efeyl\Desktop\Udemy Projeler\CaptchaApp\CaptchaApp\obj\Debug\CaptchaApp.csproj.GenerateResource.cache
+C:\Users\efeyl\Desktop\Udemy Projeler\CaptchaApp\CaptchaApp\obj\Debug\CaptchaApp.csproj.CoreCompileInputs.cache
+C:\Users\efeyl\Desktop\Udemy Projeler\CaptchaApp\CaptchaApp\obj\Debug\CaptchaApp.exe
+C:\Users\efeyl\Desktop\Udemy Projeler\CaptchaApp\CaptchaApp\obj\Debug\CaptchaApp.pdb
+C:\Users\efeyl\Desktop\Udemy Projeler\CaptchaApp\CaptchaApp\obj\Debug\CaptchaApp.Form2.resources

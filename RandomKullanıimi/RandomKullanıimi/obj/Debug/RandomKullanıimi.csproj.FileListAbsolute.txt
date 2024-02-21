@@ -1,0 +1,11 @@
+C:\Users\efeyl\Desktop\Udemy Projeler\RandomKullanıimi\RandomKullanıimi\bin\Debug\RandomKullanıimi.exe.config
+C:\Users\efeyl\Desktop\Udemy Projeler\RandomKullanıimi\RandomKullanıimi\bin\Debug\RandomKullanıimi.exe
+C:\Users\efeyl\Desktop\Udemy Projeler\RandomKullanıimi\RandomKullanıimi\bin\Debug\RandomKullanıimi.pdb
+C:\Users\efeyl\Desktop\Udemy Projeler\RandomKullanıimi\RandomKullanıimi\obj\Debug\RandomKullanıimi.csproj.AssemblyReference.cache
+C:\Users\efeyl\Desktop\Udemy Projeler\RandomKullanıimi\RandomKullanıimi\obj\Debug\RandomKullanıimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\efeyl\Desktop\Udemy Projeler\RandomKullanıimi\RandomKullanıimi\obj\Debug\RandomKullanıimi.Form1.resources
+C:\Users\efeyl\Desktop\Udemy Projeler\RandomKullanıimi\RandomKullanıimi\obj\Debug\RandomKullanıimi.Properties.Resources.resources
+C:\Users\efeyl\Desktop\Udemy Projeler\RandomKullanıimi\RandomKullanıimi\obj\Debug\RandomKullanıimi.csproj.GenerateResource.cache
+C:\Users\efeyl\Desktop\Udemy Projeler\RandomKullanıimi\RandomKullanıimi\obj\Debug\RandomKullanıimi.csproj.CoreCompileInputs.cache
+C:\Users\efeyl\Desktop\Udemy Projeler\RandomKullanıimi\RandomKullanıimi\obj\Debug\RandomKullanıimi.exe
+C:\Users\efeyl\Desktop\Udemy Projeler\RandomKullanıimi\RandomKullanıimi\obj\Debug\RandomKullanıimi.pdb

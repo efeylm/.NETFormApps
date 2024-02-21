@@ -1,0 +1,11 @@
+C:\Users\efeyl\Desktop\Udemy Projeler\PointExample\PointExample\bin\Debug\PointExample.exe.config
+C:\Users\efeyl\Desktop\Udemy Projeler\PointExample\PointExample\bin\Debug\PointExample.exe
+C:\Users\efeyl\Desktop\Udemy Projeler\PointExample\PointExample\bin\Debug\PointExample.pdb
+C:\Users\efeyl\Desktop\Udemy Projeler\PointExample\PointExample\obj\Debug\PointExample.csproj.AssemblyReference.cache
+C:\Users\efeyl\Desktop\Udemy Projeler\PointExample\PointExample\obj\Debug\PointExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\efeyl\Desktop\Udemy Projeler\PointExample\PointExample\obj\Debug\PointExample.Form1.resources
+C:\Users\efeyl\Desktop\Udemy Projeler\PointExample\PointExample\obj\Debug\PointExample.Properties.Resources.resources
+C:\Users\efeyl\Desktop\Udemy Projeler\PointExample\PointExample\obj\Debug\PointExample.csproj.GenerateResource.cache
+C:\Users\efeyl\Desktop\Udemy Projeler\PointExample\PointExample\obj\Debug\PointExample.csproj.CoreCompileInputs.cache
+C:\Users\efeyl\Desktop\Udemy Projeler\PointExample\PointExample\obj\Debug\PointExample.exe
+C:\Users\efeyl\Desktop\Udemy Projeler\PointExample\PointExample\obj\Debug\PointExample.pdb

@@ -1,0 +1,11 @@
+C:\Users\efeyl\Desktop\Udemy Projeler\AracKullanimlari2\AracKullanimlari2\bin\Debug\AracKullanimlari2.exe.config
+C:\Users\efeyl\Desktop\Udemy Projeler\AracKullanimlari2\AracKullanimlari2\bin\Debug\AracKullanimlari2.exe
+C:\Users\efeyl\Desktop\Udemy Projeler\AracKullanimlari2\AracKullanimlari2\bin\Debug\AracKullanimlari2.pdb
+C:\Users\efeyl\Desktop\Udemy Projeler\AracKullanimlari2\AracKullanimlari2\obj\Debug\AracKullanimlari2.csproj.AssemblyReference.cache
+C:\Users\efeyl\Desktop\Udemy Projeler\AracKullanimlari2\AracKullanimlari2\obj\Debug\AracKullanimlari2.csproj.SuggestedBindingRedirects.cache
+C:\Users\efeyl\Desktop\Udemy Projeler\AracKullanimlari2\AracKullanimlari2\obj\Debug\AracKullanimlari2.Form1.resources
+C:\Users\efeyl\Desktop\Udemy Projeler\AracKullanimlari2\AracKullanimlari2\obj\Debug\AracKullanimlari2.Properties.Resources.resources
+C:\Users\efeyl\Desktop\Udemy Projeler\AracKullanimlari2\AracKullanimlari2\obj\Debug\AracKullanimlari2.csproj.GenerateResource.cache
+C:\Users\efeyl\Desktop\Udemy Projeler\AracKullanimlari2\AracKullanimlari2\obj\Debug\AracKullanimlari2.csproj.CoreCompileInputs.cache
+C:\Users\efeyl\Desktop\Udemy Projeler\AracKullanimlari2\AracKullanimlari2\obj\Debug\AracKullanimlari2.exe
+C:\Users\efeyl\Desktop\Udemy Projeler\AracKullanimlari2\AracKullanimlari2\obj\Debug\AracKullanimlari2.pdb

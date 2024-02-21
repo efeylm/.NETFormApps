@@ -1,0 +1,11 @@
+C:\Users\efeyl\Desktop\Udemy Projeler\timer_2\timer_2\bin\Debug\timer_2.exe.config
+C:\Users\efeyl\Desktop\Udemy Projeler\timer_2\timer_2\bin\Debug\timer_2.exe
+C:\Users\efeyl\Desktop\Udemy Projeler\timer_2\timer_2\bin\Debug\timer_2.pdb
+C:\Users\efeyl\Desktop\Udemy Projeler\timer_2\timer_2\obj\Debug\timer_2.csproj.AssemblyReference.cache
+C:\Users\efeyl\Desktop\Udemy Projeler\timer_2\timer_2\obj\Debug\timer_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\efeyl\Desktop\Udemy Projeler\timer_2\timer_2\obj\Debug\timer_2.Form1.resources
+C:\Users\efeyl\Desktop\Udemy Projeler\timer_2\timer_2\obj\Debug\timer_2.Properties.Resources.resources
+C:\Users\efeyl\Desktop\Udemy Projeler\timer_2\timer_2\obj\Debug\timer_2.csproj.GenerateResource.cache
+C:\Users\efeyl\Desktop\Udemy Projeler\timer_2\timer_2\obj\Debug\timer_2.csproj.CoreCompileInputs.cache
+C:\Users\efeyl\Desktop\Udemy Projeler\timer_2\timer_2\obj\Debug\timer_2.exe
+C:\Users\efeyl\Desktop\Udemy Projeler\timer_2\timer_2\obj\Debug\timer_2.pdb

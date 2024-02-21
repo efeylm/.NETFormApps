@@ -1,0 +1,11 @@
+C:\Users\efeyl\Desktop\Udemy Projeler\Return_Metod\Return_Metod\bin\Debug\Return_Metod.exe.config
+C:\Users\efeyl\Desktop\Udemy Projeler\Return_Metod\Return_Metod\bin\Debug\Return_Metod.exe
+C:\Users\efeyl\Desktop\Udemy Projeler\Return_Metod\Return_Metod\bin\Debug\Return_Metod.pdb
+C:\Users\efeyl\Desktop\Udemy Projeler\Return_Metod\Return_Metod\obj\Debug\Return_Metod.csproj.AssemblyReference.cache
+C:\Users\efeyl\Desktop\Udemy Projeler\Return_Metod\Return_Metod\obj\Debug\Return_Metod.csproj.SuggestedBindingRedirects.cache
+C:\Users\efeyl\Desktop\Udemy Projeler\Return_Metod\Return_Metod\obj\Debug\Return_Metod.Form1.resources
+C:\Users\efeyl\Desktop\Udemy Projeler\Return_Metod\Return_Metod\obj\Debug\Return_Metod.Properties.Resources.resources
+C:\Users\efeyl\Desktop\Udemy Projeler\Return_Metod\Return_Metod\obj\Debug\Return_Metod.csproj.GenerateResource.cache
+C:\Users\efeyl\Desktop\Udemy Projeler\Return_Metod\Return_Metod\obj\Debug\Return_Metod.csproj.CoreCompileInputs.cache
+C:\Users\efeyl\Desktop\Udemy Projeler\Return_Metod\Return_Metod\obj\Debug\Return_Metod.exe
+C:\Users\efeyl\Desktop\Udemy Projeler\Return_Metod\Return_Metod\obj\Debug\Return_Metod.pdb

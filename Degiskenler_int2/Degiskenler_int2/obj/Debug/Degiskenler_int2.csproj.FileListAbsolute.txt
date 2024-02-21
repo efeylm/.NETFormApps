@@ -1,0 +1,11 @@
+C:\Users\efeyl\Desktop\Udemy Projeler\Degiskenler_int2\Degiskenler_int2\bin\Debug\Degiskenler_int2.exe.config
+C:\Users\efeyl\Desktop\Udemy Projeler\Degiskenler_int2\Degiskenler_int2\bin\Debug\Degiskenler_int2.exe
+C:\Users\efeyl\Desktop\Udemy Projeler\Degiskenler_int2\Degiskenler_int2\bin\Debug\Degiskenler_int2.pdb
+C:\Users\efeyl\Desktop\Udemy Projeler\Degiskenler_int2\Degiskenler_int2\obj\Debug\Degiskenler_int2.csproj.AssemblyReference.cache
+C:\Users\efeyl\Desktop\Udemy Projeler\Degiskenler_int2\Degiskenler_int2\obj\Debug\Degiskenler_int2.csproj.SuggestedBindingRedirects.cache
+C:\Users\efeyl\Desktop\Udemy Projeler\Degiskenler_int2\Degiskenler_int2\obj\Debug\Degiskenler_int2.Form1.resources
+C:\Users\efeyl\Desktop\Udemy Projeler\Degiskenler_int2\Degiskenler_int2\obj\Debug\Degiskenler_int2.Properties.Resources.resources
+C:\Users\efeyl\Desktop\Udemy Projeler\Degiskenler_int2\Degiskenler_int2\obj\Debug\Degiskenler_int2.csproj.GenerateResource.cache
+C:\Users\efeyl\Desktop\Udemy Projeler\Degiskenler_int2\Degiskenler_int2\obj\Debug\Degiskenler_int2.csproj.CoreCompileInputs.cache
+C:\Users\efeyl\Desktop\Udemy Projeler\Degiskenler_int2\Degiskenler_int2\obj\Debug\Degiskenler_int2.exe
+C:\Users\efeyl\Desktop\Udemy Projeler\Degiskenler_int2\Degiskenler_int2\obj\Debug\Degiskenler_int2.pdb

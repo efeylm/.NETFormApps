@@ -1,0 +1,11 @@
+C:\Users\efeyl\Desktop\Udemy Projeler\Donguler_Timer\Donguler_Timer\bin\Debug\Donguler_Timer.exe.config
+C:\Users\efeyl\Desktop\Udemy Projeler\Donguler_Timer\Donguler_Timer\bin\Debug\Donguler_Timer.exe
+C:\Users\efeyl\Desktop\Udemy Projeler\Donguler_Timer\Donguler_Timer\bin\Debug\Donguler_Timer.pdb
+C:\Users\efeyl\Desktop\Udemy Projeler\Donguler_Timer\Donguler_Timer\obj\Debug\Donguler_Timer.csproj.AssemblyReference.cache
+C:\Users\efeyl\Desktop\Udemy Projeler\Donguler_Timer\Donguler_Timer\obj\Debug\Donguler_Timer.csproj.SuggestedBindingRedirects.cache
+C:\Users\efeyl\Desktop\Udemy Projeler\Donguler_Timer\Donguler_Timer\obj\Debug\Donguler_Timer.Form1.resources
+C:\Users\efeyl\Desktop\Udemy Projeler\Donguler_Timer\Donguler_Timer\obj\Debug\Donguler_Timer.Properties.Resources.resources
+C:\Users\efeyl\Desktop\Udemy Projeler\Donguler_Timer\Donguler_Timer\obj\Debug\Donguler_Timer.csproj.GenerateResource.cache
+C:\Users\efeyl\Desktop\Udemy Projeler\Donguler_Timer\Donguler_Timer\obj\Debug\Donguler_Timer.csproj.CoreCompileInputs.cache
+C:\Users\efeyl\Desktop\Udemy Projeler\Donguler_Timer\Donguler_Timer\obj\Debug\Donguler_Timer.exe
+C:\Users\efeyl\Desktop\Udemy Projeler\Donguler_Timer\Donguler_Timer\obj\Debug\Donguler_Timer.pdb

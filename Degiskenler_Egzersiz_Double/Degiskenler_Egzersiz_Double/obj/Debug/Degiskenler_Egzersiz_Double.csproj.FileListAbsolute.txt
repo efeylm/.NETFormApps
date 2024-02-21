@@ -1,0 +1,11 @@
+C:\Users\efeyl\Desktop\Udemy Projeler\Degiskenler_Egzersiz_Double\Degiskenler_Egzersiz_Double\bin\Debug\Degiskenler_Egzersiz_Double.exe.config
+C:\Users\efeyl\Desktop\Udemy Projeler\Degiskenler_Egzersiz_Double\Degiskenler_Egzersiz_Double\bin\Debug\Degiskenler_Egzersiz_Double.exe
+C:\Users\efeyl\Desktop\Udemy Projeler\Degiskenler_Egzersiz_Double\Degiskenler_Egzersiz_Double\bin\Debug\Degiskenler_Egzersiz_Double.pdb
+C:\Users\efeyl\Desktop\Udemy Projeler\Degiskenler_Egzersiz_Double\Degiskenler_Egzersiz_Double\obj\Debug\Degiskenler_Egzersiz_Double.csproj.AssemblyReference.cache
+C:\Users\efeyl\Desktop\Udemy Projeler\Degiskenler_Egzersiz_Double\Degiskenler_Egzersiz_Double\obj\Debug\Degiskenler_Egzersiz_Double.csproj.SuggestedBindingRedirects.cache
+C:\Users\efeyl\Desktop\Udemy Projeler\Degiskenler_Egzersiz_Double\Degiskenler_Egzersiz_Double\obj\Debug\Degiskenler_Egzersiz_Double.Form1.resources
+C:\Users\efeyl\Desktop\Udemy Projeler\Degiskenler_Egzersiz_Double\Degiskenler_Egzersiz_Double\obj\Debug\Degiskenler_Egzersiz_Double.Properties.Resources.resources
+C:\Users\efeyl\Desktop\Udemy Projeler\Degiskenler_Egzersiz_Double\Degiskenler_Egzersiz_Double\obj\Debug\Degiskenler_Egzersiz_Double.csproj.GenerateResource.cache
+C:\Users\efeyl\Desktop\Udemy Projeler\Degiskenler_Egzersiz_Double\Degiskenler_Egzersiz_Double\obj\Debug\Degiskenler_Egzersiz_Double.csproj.CoreCompileInputs.cache
+C:\Users\efeyl\Desktop\Udemy Projeler\Degiskenler_Egzersiz_Double\Degiskenler_Egzersiz_Double\obj\Debug\Degiskenler_Egzersiz_Double.exe
+C:\Users\efeyl\Desktop\Udemy Projeler\Degiskenler_Egzersiz_Double\Degiskenler_Egzersiz_Double\obj\Debug\Degiskenler_Egzersiz_Double.pdb

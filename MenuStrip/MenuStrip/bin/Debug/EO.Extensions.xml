@@ -1,0 +1,371 @@
+<?xml version="1.0"?>
+<doc>
+  <assembly>
+    <name>EO.Extensions</name>
+  </assembly>
+  <members>
+    <member name="T:EO.Extensions.HtmlToPdfExtension">
+      <summary>
+            Supports async methods for the HTML to PDF converter.
+            </summary>
+    </member>
+    <member name="M:EO.Extensions.HtmlToPdfExtension.ConvertUrlAsync(EO.Pdf.IHtmlToPdfExtension,System.String,EO.Pdf.PdfDocument)">
+      <summary>
+            Convert a Web page into PDF and write the output
+            to a <see cref="T:EO.Pdf.PdfDocument"></see>.
+            </summary>
+      <param name="htmlToPdf">The <see cref="T:EO.Pdf.IHtmlToPdfExtension" /> object.</param>
+      <param name="url">The Url of the page.</param>
+      <param name="doc">The output <see cref="T:EO.Pdf.PdfDocument"></see> object.</param>
+      <remarks>
+            This is the async version of <see cref="M:EO.Pdf.HtmlToPdf.ConvertUrl(System.String,EO.Pdf.PdfDocument)">this method.</see>.
+            </remarks>
+    </member>
+    <member name="M:EO.Extensions.HtmlToPdfExtension.ConvertUrlAsync(EO.Pdf.IHtmlToPdfExtension,System.String,EO.Pdf.PdfDocument,EO.Pdf.HtmlToPdfOptions)">
+      <summary>
+            Convert a Web page into PDF and write the output
+            to a <see cref="T:EO.Pdf.PdfDocument"></see>.
+            </summary>
+      <param name="htmlToPdf">The <see cref="T:EO.Pdf.IHtmlToPdfExtension" /> object.</param>
+      <param name="url">The Url of the page.</param>
+      <param name="doc">The output <see cref="T:EO.Pdf.PdfDocument"></see> object.</param>
+      <param name="options">
+            The conversion options that would override 
+            <see cref="P:EO.Pdf.HtmlToPdf.Options"></see> if specified.
+            </param>
+      <remarks>
+            This is the async version of <see cref="M:EO.Pdf.HtmlToPdf.ConvertUrl(System.String,EO.Pdf.PdfDocument,EO.Pdf.HtmlToPdfOptions)">this method.</see>.
+            </remarks>
+    </member>
+    <member name="M:EO.Extensions.HtmlToPdfExtension.ConvertUrlAsync(EO.Pdf.IHtmlToPdfExtension,System.String,EO.Pdf.PdfPage)">
+      <summary>
+            Convert a Web page into a PDF and write the
+            output to a <see cref="T:EO.Pdf.PdfPage"></see>.
+            </summary>
+      <param name="htmlToPdf">The <see cref="T:EO.Pdf.IHtmlToPdfExtension" /> object.</param>
+      <param name="url">The Url of the page.</param>
+      <param name="page">The <see cref="T:EO.Pdf.PdfPage"></see> object that receives the output.</param>
+      <remarks>
+            This is the async version of <see cref="M:EO.Pdf.HtmlToPdf.ConvertUrl(System.String,EO.Pdf.PdfPage)">this method.</see>.
+            </remarks>
+    </member>
+    <member name="M:EO.Extensions.HtmlToPdfExtension.ConvertUrlAsync(EO.Pdf.IHtmlToPdfExtension,System.String,EO.Pdf.PdfPage,EO.Pdf.HtmlToPdfOptions)">
+      <summary>
+            Convert a Web page into a PDF and write the
+            output to a <see cref="T:EO.Pdf.PdfPage"></see>.
+            </summary>
+      <param name="htmlToPdf">The <see cref="T:EO.Pdf.IHtmlToPdfExtension" /> object.</param>
+      <param name="url">The Url of the page.</param>
+      <param name="page">The <see cref="T:EO.Pdf.PdfPage"></see> object that receives the output.</param>
+      <param name="options">
+            The conversion options that would override 
+            <see cref="P:EO.Pdf.HtmlToPdf.Options"></see> if specified.
+            </param>
+      <remarks>
+            This is the async version of <see cref="M:EO.Pdf.HtmlToPdf.ConvertUrl(System.String,EO.Pdf.PdfPage,EO.Pdf.HtmlToPdfOptions)">this method.</see>.
+            </remarks>
+    </member>
+    <member name="M:EO.Extensions.HtmlToPdfExtension.ConvertUrlAsync(EO.Pdf.IHtmlToPdfExtension,System.String,System.String)">
+      <summary>
+            Convert a Web page into a PDF file.
+            </summary>
+      <param name="htmlToPdf">The <see cref="T:EO.Pdf.IHtmlToPdfExtension" /> object.</param>
+      <param name="url">The Url of the page.</param>
+      <param name="pdfFileName">The output PDF file name.</param>
+      <remarks>
+            This is the async version of <see cref="M:EO.Pdf.HtmlToPdf.ConvertUrl(System.String,System.String)">this method.</see>.
+            </remarks>
+    </member>
+    <member name="M:EO.Extensions.HtmlToPdfExtension.ConvertUrlAsync(EO.Pdf.IHtmlToPdfExtension,System.String,System.String,EO.Pdf.HtmlToPdfOptions)">
+      <summary>
+            Convert a Web page into a PDF file.
+            </summary>
+      <param name="htmlToPdf">The <see cref="T:EO.Pdf.IHtmlToPdfExtension" /> object.</param>
+      <param name="url">The Url of the page.</param>
+      <param name="pdfFileName">The output PDF file name.</param>
+      <param name="options">
+            The conversion options that would override 
+            <see cref="P:EO.Pdf.HtmlToPdf.Options"></see> if specified.
+            </param>
+      <remarks>
+            This is the async version of <see cref="M:EO.Pdf.HtmlToPdf.ConvertUrl(System.String,System.String,EO.Pdf.HtmlToPdfOptions)">this method.</see>.
+            </remarks>
+    </member>
+    <member name="M:EO.Extensions.HtmlToPdfExtension.ConvertUrlAsync(EO.Pdf.IHtmlToPdfExtension,System.String,System.IO.Stream)">
+      <summary>
+            Convert a Web page into PDF and write the output to a 
+            <see cref="T:System.IO.Stream"></see>.
+            </summary>
+      <param name="htmlToPdf">The <see cref="T:EO.Pdf.IHtmlToPdfExtension" /> object.</param>
+      <param name="url">The Url of the page.</param>
+      <param name="stream">The output stream.</param>
+      <remarks>
+            This is the async version of <see cref="M:EO.Pdf.HtmlToPdf.ConvertUrl(System.String,System.IO.Stream)">this method.</see>.
+            </remarks>
+    </member>
+    <member name="M:EO.Extensions.HtmlToPdfExtension.ConvertUrlAsync(EO.Pdf.IHtmlToPdfExtension,System.String,System.IO.Stream,EO.Pdf.HtmlToPdfOptions)">
+      <summary>
+            Convert a Web page into PDF and write the output to a 
+            <see cref="T:System.IO.Stream"></see>.
+            </summary>
+      <param name="htmlToPdf">The <see cref="T:EO.Pdf.IHtmlToPdfExtension" /> object.</param>
+      <param name="url">The Url of the page.</param>
+      <param name="stream">The output stream.</param>
+      <param name="options">
+            The conversion options that would override 
+            <see cref="P:EO.Pdf.HtmlToPdf.Options"></see> if specified.
+            </param>
+      <remarks>
+            This is the async version of <see cref="M:EO.Pdf.HtmlToPdf.ConvertUrl(System.String,System.IO.Stream,EO.Pdf.HtmlToPdfOptions)">this method.</see>.
+            </remarks>
+    </member>
+    <member name="M:EO.Extensions.HtmlToPdfExtension.ConvertHtmlAsync(EO.Pdf.IHtmlToPdfExtension,System.String,EO.Pdf.PdfDocument)">
+      <summary>
+            Convert HTML text to PDF and write output to a <see cref="T:EO.Pdf.PdfDocument"></see> object.
+            </summary>
+      <param name="htmlToPdf">The <see cref="T:EO.Pdf.IHtmlToPdfExtension" /> object.</param>
+      <param name="html">The html text.</param>
+      <param name="doc">The output <see cref="T:EO.Pdf.PdfDocument"></see> object.</param>
+      <remarks>
+            This is the async version of <see cref="M:EO.Pdf.HtmlToPdf.ConvertHtml(System.String,EO.Pdf.PdfDocument)">this method.</see>.
+            </remarks>
+    </member>
+    <member name="M:EO.Extensions.HtmlToPdfExtension.ConvertHtmlAsync(EO.Pdf.IHtmlToPdfExtension,System.String,EO.Pdf.PdfDocument,EO.Pdf.HtmlToPdfOptions)">
+      <summary>
+            Convert HTML text to PDF and write output to a <see cref="T:EO.Pdf.PdfDocument"></see> object.
+            </summary>
+      <param name="htmlToPdf">The <see cref="T:EO.Pdf.IHtmlToPdfExtension" /> object.</param>
+      <param name="html">The html text.</param>
+      <param name="doc">The output <see cref="T:EO.Pdf.PdfDocument"></see> object.</param>
+      <param name="options">
+            The conversion options that would override 
+            <see cref="P:EO.Pdf.HtmlToPdf.Options"></see> if specified.
+            </param>
+      <remarks>
+            This is the async version of <see cref="M:EO.Pdf.HtmlToPdf.ConvertHtml(System.String,EO.Pdf.PdfDocument,EO.Pdf.HtmlToPdfOptions)">this method.</see>.
+            </remarks>
+    </member>
+    <member name="M:EO.Extensions.HtmlToPdfExtension.ConvertHtmlAsync(EO.Pdf.IHtmlToPdfExtension,System.String,EO.Pdf.PdfPage)">
+      <summary>
+            Convert HTML text to PDF and write output to a <see cref="T:EO.Pdf.PdfPage"></see> object.
+            </summary>
+      <param name="htmlToPdf">The <see cref="T:EO.Pdf.IHtmlToPdfExtension" /> object.</param>
+      <param name="html">The html text.</param>
+      <param name="page">The output page.</param>
+      <remarks>
+            This is the async version of <see cref="M:EO.Pdf.HtmlToPdf.ConvertHtml(System.String,EO.Pdf.PdfPage)">this method.</see>.
+            </remarks>
+    </member>
+    <member name="M:EO.Extensions.HtmlToPdfExtension.ConvertHtmlAsync(EO.Pdf.IHtmlToPdfExtension,System.String,EO.Pdf.PdfPage,EO.Pdf.HtmlToPdfOptions)">
+      <summary>
+            Convert HTML text to PDF and write output to a <see cref="T:EO.Pdf.PdfPage"></see> object.
+            </summary>
+      <param name="htmlToPdf">The <see cref="T:EO.Pdf.IHtmlToPdfExtension" /> object.</param>
+      <param name="html">The html text.</param>
+      <param name="page">The output page.</param>
+      <param name="options">
+            The conversion options that would override 
+            <see cref="P:EO.Pdf.HtmlToPdf.Options"></see> if specified.
+            </param>
+      <remarks>
+            This is the async version of <see cref="M:EO.Pdf.HtmlToPdf.ConvertHtml(System.String,EO.Pdf.PdfPage,EO.Pdf.HtmlToPdfOptions)">this method.</see>.
+            </remarks>
+    </member>
+    <member name="M:EO.Extensions.HtmlToPdfExtension.ConvertHtmlAsync(EO.Pdf.IHtmlToPdfExtension,System.String,System.String)">
+      <summary>
+            Convert HTML text to PDF and write output to a file.
+            </summary>
+      <param name="htmlToPdf">The <see cref="T:EO.Pdf.IHtmlToPdfExtension" /> object.</param>
+      <param name="html">The html text.</param>
+      <param name="pdfFileName">The output PDF file name.</param>
+      <remarks>
+            This is the async version of <see cref="M:EO.Pdf.HtmlToPdf.ConvertHtml(System.String,System.String)">this method.</see>.
+            </remarks>
+    </member>
+    <member name="M:EO.Extensions.HtmlToPdfExtension.ConvertHtmlAsync(EO.Pdf.IHtmlToPdfExtension,System.String,System.String,EO.Pdf.HtmlToPdfOptions)">
+      <summary>
+            Convert HTML text to PDF and write output to a file.
+            </summary>
+      <param name="htmlToPdf">The <see cref="T:EO.Pdf.IHtmlToPdfExtension" /> object.</param>
+      <param name="html">The html text.</param>
+      <param name="pdfFileName">The output PDF file name.</param>
+      <param name="options">
+            The conversion options that would override 
+            <see cref="P:EO.Pdf.HtmlToPdf.Options"></see> if specified.
+            </param>
+      <remarks>
+            This is the async version of <see cref="M:EO.Pdf.HtmlToPdf.ConvertHtml(System.String,System.String,EO.Pdf.HtmlToPdfOptions)">this method.</see>.
+            </remarks>
+    </member>
+    <member name="M:EO.Extensions.HtmlToPdfExtension.ConvertHtmlAsync(EO.Pdf.IHtmlToPdfExtension,System.String,System.IO.Stream)">
+      <summary>
+            Convert HTML text to PDF and write output to a <see cref="T:System.IO.Stream"></see> object.
+            </summary>
+      <param name="htmlToPdf">The <see cref="T:EO.Pdf.IHtmlToPdfExtension" /> object.</param>
+      <param name="html">The html text.</param>
+      <param name="stream">The output stream.</param>
+      <remarks>
+            This is the async version of <see cref="M:EO.Pdf.HtmlToPdf.ConvertHtml(System.String,System.IO.Stream)">this method.</see>.
+            </remarks>
+    </member>
+    <member name="M:EO.Extensions.HtmlToPdfExtension.ConvertHtmlAsync(EO.Pdf.IHtmlToPdfExtension,System.String,System.IO.Stream,EO.Pdf.HtmlToPdfOptions)">
+      <summary>
+            Convert HTML text to PDF and write output to a <see cref="T:System.IO.Stream"></see> object.
+            </summary>
+      <param name="htmlToPdf">The <see cref="T:EO.Pdf.IHtmlToPdfExtension" /> object.</param>
+      <param name="html">The html text.</param>
+      <param name="stream">The output stream.</param>
+      <param name="options">
+            The conversion options that would override 
+            <see cref="P:EO.Pdf.HtmlToPdf.Options"></see> if specified.
+            </param>
+      <remarks>
+            This is the async version of <see cref="M:EO.Pdf.HtmlToPdf.ConvertHtml(System.String,System.IO.Stream,EO.Pdf.HtmlToPdfOptions)">this method.</see>.
+            </remarks>
+    </member>
+    <member name="T:EO.Extensions.PdfViewerExtensions">
+      <summary>
+            Supports async methods on a PDF Viewer.
+            </summary>
+    </member>
+    <member name="M:EO.Extensions.PdfViewerExtensions.LoadAsync(EO.Pdf.IPdfViewer,System.String)">
+      <summary>
+            Load a PDF resource.
+            </summary>
+      <param name="viewer">The PDF Viewer object.</param>
+      <param name="url">The Url of the PDF resource.</param>
+    </member>
+    <member name="M:EO.Extensions.PdfViewerExtensions.LoadAsync(EO.Pdf.IPdfViewer,System.Byte[],System.String)">
+      <summary>
+            Load a PDF file in raw binary form.
+            </summary>
+      <param name="viewer">The PDF Viewer object.</param>
+      <param name="pdfData">The raw binary PDF data.</param>
+      <param name="fileName">Optional file name for the PDF.</param>
+    </member>
+    <member name="M:EO.Extensions.PdfViewerExtensions.ClearAsync(EO.Pdf.IPdfViewer)">
+      <summary>
+            Clear the PDF Viewer.
+            </summary>
+      <param name="viewer">The PDF Viewer object.</param>
+    </member>
+    <member name="M:EO.Extensions.PdfViewerExtensions.PrintAsync(EO.Pdf.IPdfViewer,System.Drawing.Printing.PrinterSettings,System.Drawing.Printing.PageSettings)">
+      <summary>
+            Print the PDF file that is currently loaded in the PDF Viewer.
+            </summary>
+      <param name="viewer">The PDF Viewer object.</param>
+      <param name="printerSettings">Set the default printer settings. Pass <b>null</b> to display the print dialog to ask user for the settings.</param>
+      <param name="pageSettings">Set the default page settings. Pass <b>null</b> to use <see cref="P:System.Drawing.Printing.PrinterSettings.DefaultPageSettings" />
+            of the <i>printerSettings</i> argument.
+            </param>
+      <remarks>
+            If a valid <i>printerSettings</i> value is supplied, then the print dialog will not be shown.
+            The following code demonstrates how to "silent print" with the default printer:
+            <code lang="cs">
+            PdfViewer1.Print(EO.WebBrowser.WebView.GetDefaultPrinterSettings());
+            </code><code lang="vb">
+            PdfViewer1.Print(EO.WebBrowser.WebView.GetDefaultPrinterSettings())
+            </code></remarks>
+    </member>
+    <member name="T:EO.Extensions.WebViewExtensions">
+      <summary>
+            Supports async methods on <see cref="T:EO.WebBrowser.WebView" />.
+            </summary>
+    </member>
+    <member name="M:EO.Extensions.WebViewExtensions.WaitForReadyAsync(EO.WebBrowser.WebView)">
+      <summary>
+            Asynchronously waits for the <see cref="T:EO.WebBrowser.WebView" /> to be ready.
+            </summary>
+      <param name="webView">The <see cref="T:EO.WebBrowser.WebView" /> object.</param>
+    </member>
+    <member name="M:EO.Extensions.WebViewExtensions.EvalScriptAsync``1(EO.WebBrowser.WebView,System.String,System.String)">
+      <summary>
+            Asynchronously Execute JavaScript code in a frame and returns the result value.
+            </summary>
+      <typeparam name="TResult">The type of the result value.</typeparam>
+      <param name="webView">The <see cref="T:EO.WebBrowser.WebView" /> object.</param>
+      <param name="script">The JavaScript code to be executed.</param>
+      <param name="frameName">The name of the frame in which the code to be executed. Pass <b>null</b> to execute the code in the main frame.</param>
+      <returns>
+            A task that represents the asynchronous operation. The Value
+            of its Result property contains the result value of the JavaScript
+            code.
+            </returns>
+      <remarks>
+            The following code demonstrates how to get the current document Url:
+            <code lang="C#">
+            string s = await webView.EvalScriptAsync&lt;string&gt;("window.location.href");
+            </code><code lang="VB">
+            Dim s As String = Await webView.EvalScriptAsync(Of String)("window.location.href")
+            </code></remarks>
+    </member>
+    <member name="M:EO.Extensions.WebViewExtensions.EvalScriptAsync(EO.WebBrowser.WebView,System.String,System.String)">
+      <summary>
+            Asynchronously Execute JavaScript code in a frame without returning the result value.
+            </summary>
+      <param name="webView">The <see cref="T:EO.WebBrowser.WebView" /> object.</param>
+      <param name="script">The JavaScript code to be executed.</param>
+      <param name="frameName">The name of the frame in which the code to be executed. Pass <b>null</b> to execute the code in the main frame.</param>
+      <returns>
+            A task that represents the asynchronous operation.
+            </returns>
+    </member>
+    <member name="M:EO.Extensions.WebViewExtensions.LoadUrlAsync(EO.WebBrowser.WebView,System.String,System.Boolean,System.Threading.CancellationToken)">
+      <summary>
+            Asynchronously loads a Url into the <see cref="T:EO.WebBrowser.WebView" />.
+            </summary>
+      <param name="webView">The <see cref="T:EO.WebBrowser.WebView" /> object.</param>
+      <param name="url">The Url to be loaded.</param>
+      <param name="skipCache">Set to <b>true</b> to skip cache.</param>
+      <param name="cancellationToken">The token to monitor for cancellation requests. The default value is <see cref="P:System.Threading.CancellationToken.None" />.</param>
+      <returns>
+            A task that represents the asynchronous operation.
+            </returns>
+    </member>
+    <member name="M:EO.Extensions.WebViewExtensions.LoadRequestAsync(EO.WebBrowser.WebView,EO.WebBrowser.Request,System.Boolean,System.Threading.CancellationToken)">
+      <summary>
+            Asynchronously loads a <see cref="T:EO.WebBrowser.Request" /> into the <see cref="T:EO.WebBrowser.WebView" />.
+            </summary>
+      <param name="webView">The <see cref="T:EO.WebBrowser.WebView" /> object.</param>
+      <param name="request">The request to be loaded.</param>
+      <param name="skipCache">Set to <b>true</b> to skip cache.</param>
+      <param name="cancellationToken">The token to monitor for cancellation requests. The default value is <see cref="P:System.Threading.CancellationToken.None" />.</param>
+      <returns>
+            A task that represents the asynchronous operation.
+            </returns>
+    </member>
+    <member name="M:EO.Extensions.WebViewExtensions.LoadHtmlAsync(EO.WebBrowser.WebView,System.String,System.String,System.Threading.CancellationToken)">
+      <summary>
+            Asynchronously loads raw HTML into the <see cref="T:EO.WebBrowser.WebView" />.
+            </summary>
+      <param name="webView">The <see cref="T:EO.WebBrowser.WebView" /> object.</param>
+      <param name="html">The HTML to be loaded.</param>
+      <param name="baseUrl">The base Url.</param>
+      <param name="cancellationToken">The token to monitor for cancellation requests. The default value is <see cref="P:System.Threading.CancellationToken.None" />.</param>
+      <returns>
+            A task that represents the asynchronous operation.
+            </returns>
+    </member>
+    <member name="M:EO.Extensions.WebViewExtensions.PrintAsync(EO.WebBrowser.WebView,System.Drawing.Printing.PrinterSettings,System.Drawing.Printing.PageSettings)">
+      <summary>
+            Asynchronously print the currently loaded page.
+            </summary>
+      <param name="webView">The <see cref="T:EO.WebBrowser.WebView" /> object.</param>
+      <param name="printerSettings">Set the default printer settings. Pass <b>null</b> to display the print dialog to ask user for the settings.</param>
+      <param name="pageSettings">Set the default page settings. Pass <b>null</b> to use <see cref="P:System.Drawing.Printing.PrinterSettings.DefaultPageSettings" />
+            of the <i>printerSettings</i> argument.
+            </param>
+      <returns>
+            A task that represents the asynchronous operation.
+            </returns>
+    </member>
+    <member name="M:EO.Extensions.WebViewExtensions.DebugAsync(EO.WebBrowser.WebView)">
+      <summary>
+            Displays debug UI.
+            </summary>
+      <returns>
+            A task that will be completed when the debug UI closes.
+            </returns>
+    </member>
+  </members>
+</doc>

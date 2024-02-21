@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Degiskenler_4_islem", "Degiskenler_4_islem\Degiskenler_4_islem.csproj", "{778AB7FA-B5FF-432B-AE18-76AC5AB4F984}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{778AB7FA-B5FF-432B-AE18-76AC5AB4F984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{778AB7FA-B5FF-432B-AE18-76AC5AB4F984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{778AB7FA-B5FF-432B-AE18-76AC5AB4F984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{778AB7FA-B5FF-432B-AE18-76AC5AB4F984}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {336630CD-04C5-4C49-ACA8-DEE67A82BBD2}
+	EndGlobalSection
+EndGlobal
